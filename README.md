@@ -9,6 +9,7 @@ Feel free to browse the projects and their corresponding code. If you have any q
 ### Projects
 
 - **blockexplorer**: Simple block explorer for the Ethereum Blockchain using Alchemy's SDK. Developed with React.js and Tailwind CSS.
-- **ecdsa-node**: Interface that allows users to create wallets, generate signatures and conduct transactions between accounts using Public Key Cryptography. Developed with React.js, SCSS and Express.
-- **e-library**: Interface that displays basic information about some books. Developed with Next.js and Tailwind CSS.
+- **ecdsa-node**: Wallet management interface that allows users to create wallets, generate signatures and conduct transactions between accounts using Public Key Cryptography. Developed with React.js, SCSS and Express.
+- **e-library**: Library that displays basic information about some books. Developed with Next.js and Tailwind CSS.
+- **escrow-dapp**: Decentralized application that allows users to set up an escrow service. Developed with React.js, Bootstrap, Hardhat, Solidity and ethers.js.
 - **stock-app**: Interface that displays basic information about trending stocks. Developed with React.js and Bootstrap.

@@ -1,0 +1,15 @@
+{
+  "name": "P90 Chopper",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "P90"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Chopper"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s759.png",
+  "description": "From CSGO Collection"
+}

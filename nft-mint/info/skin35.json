@@ -1,0 +1,15 @@
+{
+  "name": "Survival Knife Fade",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "Survival Knife"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Fade"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s1226.png",
+  "description": "From CSGO Collection"
+}

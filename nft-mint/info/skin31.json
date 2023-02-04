@@ -1,0 +1,15 @@
+{
+  "name": "Sawed-Off The Kraken",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "Sawed-Off"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "The Kraken"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s250.png",
+  "description": "From CSGO Collection"
+}

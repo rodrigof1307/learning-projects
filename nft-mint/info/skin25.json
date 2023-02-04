@@ -1,0 +1,15 @@
+{
+  "name": "MP9 Goo",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "MP9"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Goo"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s904.png",
+  "description": "From CSGO Collection"
+}

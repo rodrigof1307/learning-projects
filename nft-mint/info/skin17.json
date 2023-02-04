@@ -1,0 +1,15 @@
+{
+  "name": "M4A1-S Hyper Beast",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "M4A1-S"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Hyper Beast"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s554.png",
+  "description": "From CSGO Collection"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Galil AR Sugar Rush",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "Galil AR"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Sugar Rush"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s893.png",
+  "description": "From CSGO Collection"
+}

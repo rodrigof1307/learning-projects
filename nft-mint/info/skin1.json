@@ -1,0 +1,15 @@
+{
+  "name": "AK-47 Asiimov",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "AK-47"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Asiimov"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s1052.png",
+  "description": "From CSGO Collection"
+}

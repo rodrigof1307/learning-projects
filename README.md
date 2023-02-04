@@ -12,4 +12,5 @@ Feel free to browse the projects and their corresponding code. If you have any q
 - **ecdsa-node**: Wallet management interface that allows users to create wallets, generate signatures and conduct transactions between accounts using Public Key Cryptography. Developed with React.js, SCSS and Express.
 - **e-library**: Library that displays basic information about some books. Developed with Next.js and Tailwind CSS.
 - **escrow-dapp**: Decentralized application that allows users to set up an escrow service. Developed with React.js, Bootstrap, Hardhat, Solidity and ethers.js.
+- **nft-mint**: App to help deployment and launch of an NFT collection on Ethereum-s Goerli testnet. Developed with React.js, Bootstrap, Hardhat, Solidity and ethers.js.
 - **stock-app**: Interface that displays basic information about trending stocks. Developed with React.js and Bootstrap.

@@ -1,0 +1,15 @@
+{
+  "name": "UMP-45 Exposure",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "UMP-45"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Exposure"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s907.png",
+  "description": "From CSGO Collection"
+}

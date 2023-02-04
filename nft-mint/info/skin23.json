@@ -1,0 +1,15 @@
+{
+  "name": "MP5-SD Phosphor",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "MP5-SD"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Phosphor"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s1051.png",
+  "description": "From CSGO Collection"
+}

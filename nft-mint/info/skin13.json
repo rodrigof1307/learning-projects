@@ -1,0 +1,15 @@
+{
+  "name": "AWP Dragon Lore",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "AWP"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Dragon Lore"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s422.png",
+  "description": "From CSGO Collection"
+}

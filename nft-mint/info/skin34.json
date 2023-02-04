@@ -1,0 +1,15 @@
+{
+  "name": "Negev Bratatat",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "Negev"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Bratatat"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s476.png",
+  "description": "From CSGO Collection"
+}

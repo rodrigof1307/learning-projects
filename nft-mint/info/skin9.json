@@ -1,0 +1,15 @@
+{
+  "name": "R8 Revolver Reboot",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "R8 Revolver"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Reboot"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s758.png",
+  "description": "From CSGO Collection"
+}

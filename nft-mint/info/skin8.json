@@ -1,0 +1,15 @@
+{
+  "name": "P250 Franklin",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "P250"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Franklin"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s356.png",
+  "description": "From CSGO Collection"
+}

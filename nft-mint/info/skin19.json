@@ -1,0 +1,15 @@
+{
+  "name": "SCAR-20 Cardiac",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "SCAR-20"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Cardiac"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s506.png",
+  "description": "From CSGO Collection"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "M249 Nebula Crusader",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "M249"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Nebula Crusader"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s651.png",
+  "description": "From CSGO Collection"
+}

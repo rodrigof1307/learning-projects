@@ -1,0 +1,15 @@
+{
+  "name": "USP-S Kill Confirmed",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "USP-S"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Kill Confirmed"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s658.png",
+  "description": "From CSGO Collection"
+}

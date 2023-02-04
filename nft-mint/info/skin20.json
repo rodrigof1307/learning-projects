@@ -1,0 +1,15 @@
+{
+  "name": "SG 553 Phantom",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "SG 553"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Phantom"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s905.png",
+  "description": "From CSGO Collection"
+}

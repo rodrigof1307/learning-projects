@@ -1,0 +1,15 @@
+{
+  "name": "MAG-7 Heat",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "MAG-7"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Heat"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s560.png",
+  "description": "From CSGO Collection"
+}

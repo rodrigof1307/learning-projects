@@ -1,0 +1,15 @@
+{
+  "name": "FAMAS Darkwater",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "FAMAS"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Darkwater"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s1353.png",
+  "description": "From CSGO Collection"
+}

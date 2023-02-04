@@ -1,0 +1,15 @@
+{
+  "name": "M4A4 Howl",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "M4A4"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Howl"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s355.png",
+  "description": "From CSGO Collection"
+}

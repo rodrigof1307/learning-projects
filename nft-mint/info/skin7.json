@@ -1,0 +1,15 @@
+{
+  "name": "P2000 Handgun",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "P2000"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Handgun"
+    }
+  ],
+  "image": "https://csgostash.com/storage/img/skin_sideview/s573.png",
+  "description": "From CSGO Collection"
+}

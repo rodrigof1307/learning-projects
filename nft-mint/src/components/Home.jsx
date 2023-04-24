@@ -10,7 +10,7 @@ let contract;
 
 if(window.ethereum) {
 
-  contractAddress = '0x049c52922e5DE3b0B26A7BCd2E565d52B540C7c9';
+  contractAddress = '0xAdcADdC64E5a4B3E1358dBc85f0E2699226f2c04';
 
   provider = new ethers.providers.Web3Provider(window.ethereum);
 
@@ -35,7 +35,7 @@ function Home() {
           .fill(0)
           .map((_, i) => (
             <div key={i} className="col-3 px-0 d-flex justify-content-center align-items-center">
-              <NFTImage tokenId={i}/>
+              <NFTImage tokenId={i+1}/>
             </div>
           ))}
       </div>
@@ -44,7 +44,7 @@ function Home() {
 }
 
 function NFTImage({ tokenId }) {
-  const contentId = 'QmRTfYyCw71WSjUw4TFdDL8XEjqPNkgxQCQ9u4qcd3y4eV';
+  const contentId = 'QmXhwaFTLVYZLr3KkqscnEvPvmDgqW3W8Hg9rH91dKCChY';
   const metadataURI = `${contentId}/skin${tokenId}.json`;
 
   const [loading, setLoading] = useState(true);
@@ -80,7 +80,7 @@ function NFTImage({ tokenId }) {
   const mintToken = async () => {
     setMintLoading(true)
     const result = await contract.payToMint(signer.getAddress(), metadataURI, {
-      value: ethers.utils.parseEther('0.05'),
+      value: ethers.utils.parseEther('0.01'),
     });
     await result.wait();
     getMintedStatus();

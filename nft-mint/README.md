@@ -19,7 +19,7 @@ If you wish to deploy a new contract I recommend that you watch the previously m
 2. Customize the contract on `/contracts/MyNFT.sol`
 3. Test your contract by altering `test/test.js`
 4. Run `npx hardhat test test/test.js` to test the contract
-5. Run `tounch .env` to create a file that stores the enviroment variables
+5. Run `touch .env` to create a file that stores the enviroment variables
 6. Add a GOERLI_URL and PRIVATE_KEY to the .env file that will be used by hardhat.config.js
 7. Alter `scripts/deploy.js` to your contract
 8. Run `npx hardhat run scripts/deploy.js --network goerli` to deploy the contract on the Goerli testnet

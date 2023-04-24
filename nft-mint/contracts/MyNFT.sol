@@ -19,6 +19,11 @@ contract CounterStrike is ERC721, ERC721URIStorage, Ownable {
         return "ipfs://";
     }
 
+    function withdraw() public onlyOwner {
+        uint256 balance = address(this).balance;
+        payable(msg.sender).transfer(balance);
+    }
+
     function safeMint(address to, string memory uri) public onlyOwner {
         uint256 tokenId = _tokenIdCounter.current();
         _tokenIdCounter.increment();
@@ -28,16 +33,15 @@ contract CounterStrike is ERC721, ERC721URIStorage, Ownable {
     }
 
     // The following functions are overrides required by Solidity.
-    function _burn(uint256 tokenId) internal override(ERC721, ERC721URIStorage) {
+    function _burn(
+        uint256 tokenId
+    ) internal override(ERC721, ERC721URIStorage) {
         super._burn(tokenId);
     }
 
-    function tokenURI(uint256 tokenId)
-        public
-        view
-        override(ERC721, ERC721URIStorage)
-        returns (string memory)
-    {
+    function tokenURI(
+        uint256 tokenId
+    ) public view override(ERC721, ERC721URIStorage) returns (string memory) {
         return super.tokenURI(tokenId);
     }
 
@@ -50,9 +54,9 @@ contract CounterStrike is ERC721, ERC721URIStorage, Ownable {
         string memory metadataURI
     ) public payable returns (uint256) {
         uint256 newItemId = _tokenIdCounter.current();
-        require(newItemId < 39, 'Max supply reached!');
-        require(existingURIs[metadataURI] != 1, 'NFT already minted!');
-        require (msg.value >= 0.05 ether, 'Need to pay up!');
+        require(newItemId < 39, "Max supply reached!");
+        require(existingURIs[metadataURI] != 1, "NFT already minted!");
+        require(msg.value >= 0.01 ether, "Need to pay up!");
 
         _tokenIdCounter.increment();
         existingURIs[metadataURI] = 1;
@@ -66,6 +70,4 @@ contract CounterStrike is ERC721, ERC721URIStorage, Ownable {
     function count() public view returns (uint256) {
         return _tokenIdCounter.current();
     }
-
-
 }

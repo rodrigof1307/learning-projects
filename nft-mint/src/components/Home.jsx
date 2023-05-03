@@ -10,7 +10,8 @@ let contract;
 
 if(window.ethereum) {
 
-  contractAddress = '0xAdcADdC64E5a4B3E1358dBc85f0E2699226f2c04';
+  // contractAddress = '0xAdcADdC64E5a4B3E1358dBc85f0E2699226f2c04'; GOERLI
+  contractAddress = '0x441619F5d94779aa381d7a0dc16944ca11D8D584';
 
   provider = new ethers.providers.Web3Provider(window.ethereum);
 
